@@ -22,8 +22,8 @@ satış kanalı seçeneklerinin incelendiği saha araştırması. Rapor tarihi: 
 Dönemsel Değişim · 04 Kategori Adı Değişiyor · 05 Retailer Adıyla Yapılan Aramalar ·
 06 VitrA'nın Mevcut Görünürlüğü ve Kanal Varlığı · 07 Rakip Görünürlüğü ve Kelime Kırılımı ·
 08 Akıllı Klozet Almanya'da Nasıl Konumlanmalı · 09 Kategori Hangi Markalarla Aranıyor ·
-10 Arama Sonuç Sayfası ve Rekabet Yapısı · 11 Pazaryeri Kanalları: Kendi Depodan Sevkiyat ·
-12 Kendi Depodan Dağıtılabilecek Siteler · 13 Retailer ve Streckengeschäft Kanalı ·
+10 Arama Sonuç Sayfası ve Rekabet Yapısı · 11 Kendi Depodan Dağıtılabilecek Siteler ·
+12 Pazaryeri Koşulları, Ücretleri ve Giriş Şartları · 13 Retailer ve Streckengeschäft Kanalı ·
 14 Kendi Kanal, Google Shopping ve B2B · 15 B2B ve Tesisatçı Kanalı ·
 16 VitrA'nın Satış Yapabileceği Komşu Kategoriler · 17 Sonraki Adımlar ·
 18 Yöntem ve Kaynaklar · 19 Terim Sözlüğü
@@ -47,4 +47,5 @@ seriyi paylaşan kelimeler raporda tek grup olarak gösterilir; grup üyelerinin
 toplanmaz.
 
 Raporun içindeki veri dosyası (14 sekmeli Excel) üstteki ve alttaki "Veri dosyası" butonundan
-indirilebilir.
+indirilebilir. Rapor açık ve koyu temayı destekler; üst bardaki tema düğmesi tercihi tarayıcıda
+saklar, tercih yoksa işletim sistemi ayarını izler.
