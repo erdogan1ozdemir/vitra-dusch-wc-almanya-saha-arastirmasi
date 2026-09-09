@@ -1,0 +1,6 @@
+# Allowlist: yalnizca yayinlanan rapor ve README depoya girer.
+*
+!index.html
+!README.md
+!.gitignore
+!vercel.json
