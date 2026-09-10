@@ -15,7 +15,7 @@ satış kanalı seçeneklerinin incelendiği saha araştırması. Rapor tarihi: 
 | Kelime seti | 172 kelime, 8 komşu kategori |
 | Rakip | 6 kategori sayfası, URL düzeyinde organik kelime ve trafik |
 | Kanal | 16 kanal koşul matrisi, 15 kanallık dağıtım listesi |
-| Veri dosyası | 14 sekmeli Excel, rapora gömülü (70 KB) |
+| Veri dosyası | 15 sekmeli Excel, rapora gömülü (71 KB) |
 
 ## Rapor bölümleri
 
