@@ -83,8 +83,8 @@ toplanmaz.
 
 - **Veri dosyası** üstteki ve alttaki "Veri dosyası" düğmesinden indirilir; dosya rapora gömülüdür,
   ayrı bir adrese bağımlı değildir.
-- **Tema:** üst bardaki düğme açık ve koyu tema arasında geçiş yapar, tercihi tarayıcıda saklar;
-  tercih yoksa işletim sistemi ayarı izlenir.
+- **Tema:** rapor açık temada açılır. Üst bardaki düğme açık ve koyu tema arasında geçiş yapar
+  ve tercihi tarayıcıda saklar; sonraki açılışlarda bu tercih geçerli olur.
 - **İçindekiler** masaüstünde sol sütunda, mobilde sağ alttaki düğmeyle açılan alt sayfada bulunur.
 - **Tablolar** kendi içinde kaydırılır; sütun başlıklarının üzerine gelindiğinde o sütunun hangi
   veriyi taşıdığı açıklanır. Grafiklerde veri noktasına gelindiğinde sayısal değer gösterilir.
