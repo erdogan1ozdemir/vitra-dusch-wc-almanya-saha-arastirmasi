@@ -16,6 +16,7 @@ satış kanalı seçeneklerinin incelendiği saha araştırması. Rapor tarihi: 
 | Rakip | 6 kategori sayfası, URL düzeyinde organik kelime ve trafik |
 | Kanal | 16 kanal koşul matrisi, 15 kanallık dağıtım listesi |
 | Veri dosyası | 15 sekmeli Excel, rapora gömülü (71 KB) |
+| Dil | Türkçe ve İngilizce, üst bardaki düğmeyle değiştirilir |
 
 ## Rapor bölümleri
 
@@ -87,6 +88,11 @@ toplanmaz.
 - **İçindekiler** masaüstünde sol sütunda, mobilde sağ alttaki düğmeyle açılan alt sayfada bulunur.
 - **Tablolar** kendi içinde kaydırılır; sütun başlıklarının üzerine gelindiğinde o sütunun hangi
   veriyi taşıdığı açıklanır. Grafiklerde veri noktasına gelindiğinde sayısal değer gösterilir.
+- **Dil:** üst bardaki EN / TR düğmesi raporu Türkçe ve İngilizce arasında değiştirir; tercih
+  tarayıcıda saklanır. Almanca arama kelimeleri ve marka adları iki dilde de olduğu gibi kalır,
+  sayı biçimi ve sıra ekleri seçilen dile göre yazılır.
+- **Almanca terimler** noktalı alt çizgiyle işaretlidir; üzerine gelindiğinde karşılığı açılır.
+  Karşılık, raporun o anki diline göre Türkçe veya İngilizce gösterilir.
 
 ## Depo içeriği
 
