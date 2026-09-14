@@ -1,7 +1,8 @@
 # VitrA Almanya · Dusch-WC Pazar ve Satış Kanalı Araştırması
 
 Almanya'da Dusch-WC (yıkama fonksiyonlu klozet) kategorisinin arama talebi, rekabet yapısı ve
-satış kanalı seçeneklerinin incelendiği saha araştırması. Rapor tarihi: 09.09.2026.
+satış kanalı seçeneklerinin incelendiği saha araştırması. Rapor tarihi: 09.09.2026; kanal, fiyat ve
+ürün bulguları 14.09.2026'da güncellenmiştir.
 
 **Yayınlanan rapor:** [`index.html`](index.html) · <https://vitra-dusch-wc-almanya-saha-arastir.vercel.app>
 
@@ -14,8 +15,9 @@ satış kanalı seçeneklerinin incelendiği saha araştırması. Rapor tarihi: 
 | Arama verisi | 2022-09 - 2026-07 (47 ay) |
 | Kelime seti | 172 kelime, 8 komşu kategori |
 | Rakip | 6 kategori sayfası, URL düzeyinde organik kelime ve trafik |
-| Kanal | 16 kanal koşul matrisi, 15 kanallık dağıtım listesi |
-| Veri dosyası | 15 sekmeli Excel, rapora gömülü (71 KB) |
+| Kanal | 16 kanal koşul matrisi, 15 kanallık dağıtım listesi, 13 kanallık retailer seçim matrisi |
+| Kaynakça | 277 numaralı kaynak; metindeki üst simgeler Kaynakça bölümüne bağlanır |
+| Veri dosyası | 16 sekmeli Excel, rapora gömülü (97 KB) |
 | Dil | Türkçe ve İngilizce, üst bardaki düğmeyle değiştirilir |
 
 ## Rapor bölümleri
@@ -29,33 +31,43 @@ satış kanalı seçeneklerinin incelendiği saha araştırması. Rapor tarihi: 
 
 3. Kategori Arama Talebi ve Dönemsel Değişim
 4. Kategori Adı Değişiyor
-5. Retailer Adıyla Yapılan Aramalar
+5. Kullanıcı Beklentileri ve Hedef Kitle
+6. Retailer Adıyla Yapılan Aramalar
 
 **Rekabet ve konumlandırma**
 
-6. VitrA'nın Mevcut Görünürlüğü ve Kanal Varlığı
-7. Rakip Görünürlüğü ve Kelime Kırılımı
-8. Akıllı Klozet Almanya'da Nasıl Konumlanmalı
-9. Kategori Hangi Markalarla Aranıyor
-10. Arama Sonuç Sayfası ve Rekabet Yapısı
+7. VitrA'nın Mevcut Görünürlüğü ve Kanal Varlığı
+8. Rakip Görünürlüğü ve Kelime Kırılımı
+9. Rakip Dusch-WC'lerin Başarı Göstergeleri
+10. Akıllı Klozet Almanya'da Nasıl Konumlanmalı
+11. Kategori Hangi Markalarla Aranıyor
+12. Arama Sonuç Sayfası ve Rekabet Yapısı
+
+**Ürün**
+
+13. Ürün Talebi ve Fiyat Segmentleri
+14. Model Karşılaştırması ve VitrA Ürün Uyumu
 
 **Kanal**
 
-11. Kendi Depodan Dağıtılabilecek Siteler
-12. Pazaryeri Koşulları, Ücretleri ve Giriş Şartları
-13. Retailer ve Streckengeschäft Kanalı
-14. Kendi Kanal ve Google Shopping
-15. B2B ve Tesisatçı Kanalı
+15. Kendi Depodan Dağıtılabilecek Siteler
+16. Pazaryeri Koşulları, Ücretleri ve Giriş Şartları
+17. Uzman E-Ticaret ve Retailer Kanalı
+18. VitrA Markası, Özel Marka ve İkinci Marka
+19. Kendi Kanal ve Google Shopping
+20. B2B ve Tesisatçı Kanalı
+21. Mevzuat, Gümrük ve Üretim Yeri
 
 **Plan**
 
-16. VitrA'nın Satış Yapabileceği Komşu Kategoriler
-17. Sonraki Adımlar
+22. VitrA'nın Satış Yapabileceği Komşu Kategoriler
+23. Sonraki Adımlar
 
 **Ek**
 
-18. Yöntem ve Kaynaklar
-19. Terim Sözlüğü
+24. Yöntem ve Kaynaklar
+25. Kaynakça
+26. Terim Sözlüğü
 
 ## Veri kaynakları
 
@@ -65,9 +77,9 @@ satış kanalı seçeneklerinin incelendiği saha araştırması. Rapor tarihi: 
 - **Pazaryeri payı:** [HDE Online-Monitor 2026](https://einzelhandel.de/online-monitor)
 - **Sanitärkeramik pazarı:** [diy online · Markt für Sanitärkeramik wächst bis 2030 um 16 Prozent](https://www.diyonline.de/d/news/2026/08/05/plus/markt-fuer-sanitaerkeramik-waechst-bis-2030-um-16-prozent.html)
 - **Kanal koşulları:** Platformların kendi satıcı sayfaları
+- **Kanal varlığı ve fiyatlar:** Kanalların ürün, arama ve kategori sayfaları ile idealo teklif listeleri, Almanya bağlantısıyla, 14.09.2026
 
-Ahrefs ve DataForSEO dışındaki kaynaklar raporun "Yöntem ve Kaynaklar" bölümünde tam adresleriyle
-listelenmiştir.
+Tüm kaynaklar raporun "Kaynakça" bölümünde tam adresleriyle listelenmiştir; bağlantılar yeni sekmede açılır.
 
 ## Yöntem notu
 
