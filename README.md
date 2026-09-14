@@ -18,7 +18,7 @@ satış kanalı seçeneklerinin incelendiği saha araştırması. Rapor tarihi: 
 | Kanal | 16 kanal koşul matrisi, 15 kanallık dağıtım listesi, 13 kanallık retailer seçim matrisi |
 | Dusch-WC kapsamı | Elektronik komple set, elektronik oturak ünitesi, termostatlı Dusch-WC ve bide fonksiyonlu (taharet) klozet ayrı ayrı kontrol edildi |
 | Kaynakça | Numaralı kaynak listesi; metindeki üst simgeler Kaynakça bölümüne bağlanır |
-| Veri dosyası | 39 sekmeli Excel, rapora gömülü (138 KB); yeni bölümlerin tabloları ayrı sekmelerde |
+| Veri dosyası | 40 sekmeli Excel, rapora gömülü (143 KB); yeni bölümlerin tabloları ayrı sekmelerde |
 | Dil | Türkçe ve İngilizce, üst bardaki düğmeyle değiştirilir |
 
 ## Rapor bölümleri
@@ -31,7 +31,7 @@ satış kanalı seçeneklerinin incelendiği saha araştırması. Rapor tarihi: 
 **Talep**
 
 3. Kategori Arama Talebi ve Dönemsel Değişim
-4. Kategori Adı Değişiyor
+4. Kategori Adlarındaki Değişim
 5. Kullanıcı Beklentileri ve Hedef Kitle
 6. Retailer Adıyla Yapılan Aramalar
 
@@ -40,8 +40,8 @@ satış kanalı seçeneklerinin incelendiği saha araştırması. Rapor tarihi: 
 7. VitrA'nın Mevcut Görünürlüğü ve Kanal Varlığı
 8. Rakip Görünürlüğü ve Kelime Kırılımı
 9. Rakip Dusch-WC'lerin Başarı Göstergeleri
-10. Akıllı Klozet Almanya'da Nasıl Konumlanmalı
-11. Kategori Hangi Markalarla Aranıyor
+10. Akıllı Klozet Almanya'da Nasıl Konumlanabilir?
+11. Kategori Hangi Markalarla Aranıyor?
 12. Arama Sonuç Sayfası ve Rekabet Yapısı
 
 **Ürün**
