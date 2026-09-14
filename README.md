@@ -16,8 +16,9 @@ satış kanalı seçeneklerinin incelendiği saha araştırması. Rapor tarihi: 
 | Kelime seti | 172 kelime, 8 komşu kategori |
 | Rakip | 6 kategori sayfası, URL düzeyinde organik kelime ve trafik |
 | Kanal | 16 kanal koşul matrisi, 15 kanallık dağıtım listesi, 13 kanallık retailer seçim matrisi |
-| Kaynakça | 277 numaralı kaynak; metindeki üst simgeler Kaynakça bölümüne bağlanır |
-| Veri dosyası | 16 sekmeli Excel, rapora gömülü (97 KB) |
+| Dusch-WC kapsamı | Elektronik komple set, elektronik oturak ünitesi, termostatlı Dusch-WC ve bide fonksiyonlu (taharet) klozet ayrı ayrı kontrol edildi |
+| Kaynakça | Numaralı kaynak listesi; metindeki üst simgeler Kaynakça bölümüne bağlanır |
+| Veri dosyası | 39 sekmeli Excel, rapora gömülü (138 KB); yeni bölümlerin tabloları ayrı sekmelerde |
 | Dil | Türkçe ve İngilizce, üst bardaki düğmeyle değiştirilir |
 
 ## Rapor bölümleri
